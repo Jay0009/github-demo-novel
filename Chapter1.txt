@@ -1,6 +1,0 @@
-======================
-chapter1
-======================
-This is chapter 1.
-Starting the first chapter.
-End of first chapter
